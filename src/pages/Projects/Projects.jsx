@@ -20,7 +20,7 @@ const Projects = () => {
             title: 'Netflix Clone',
             description: 'A responsive dashboard built with HTML and CSS featuring Responsive Design.',
             tags: ['HTML', 'CSS'],
-            link: 'https://netflix-rust-zeta.vercel.app'
+            link: 'https://project-two-navy-16.vercel.app'
         },
          {
             title: 'Facebook login page',
@@ -39,6 +39,18 @@ const Projects = () => {
             description: 'A simple spotify app clone using  HTML, CSS and Javascript.',
             tags: ['HTML', 'CSS', 'Javascript'],
             link: 'https://spotify-app-pink-gamma.vercel.app'
+        },
+        {
+            title: 'Todo-contact App',
+            description: 'A simple Todo-contact app clone using  React and Tailwind CSS.',
+            tags: ['React'],
+            link: 'https://todo-contact-app-seven.vercel.app/'
+        },
+        {
+            title: 'Besnik App',
+            description: 'A simple Besnik app clone using  Vite and Tailwind CSS.',
+            tags: ['Vite, Tailwind CSS'],
+            link: 'https://besnik-topaz.vercel.app/'
         }
        
     ];

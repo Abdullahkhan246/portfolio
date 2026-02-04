@@ -5,10 +5,11 @@ const Skills = () => {
     const skills = [
         { name: 'HTML5', level: '95%' },
         { name: 'CSS3', level: '90%' },
+        { name: 'Tailwind CSS', level: '85%' },
+        { name: 'Git & Github', level: '70%' },
         { name: 'JavaScript', level: '85%' },
         { name: 'React', level: '80%' },
         { name: 'Vite', level: '85%' },
-        { name: 'Git', level: '75%' },
         {name: 'Firebase', level: '70%'},
         {name: 'Express.js', level: '60%'},
         {name: 'Mongodb', level: '80%'}
