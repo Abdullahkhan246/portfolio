@@ -12,10 +12,9 @@ const About = () => {
                         <h3>Full-Stack Developer based in Pakistan</h3>
                         <p>
                             I am a passionate Full-Stack developer with a keen eye for detail and a love for creating beautiful, functional websites.
-                            I have experience with modern web technologies and I'm always eager to learn new things.
+                            Completed a one-year Website Development program at Saylani Institute, with hands-on experience building multiple real-world projects.
                         </p>
                         <p>
-                            My journey started with a curiosity about how websites work, and it has evolved into a career where I turn designs into reality.
                             I focus on writing clean, maintainable code and building responsive user interfaces.
                         </p>
                         <div className="info-box">
